@@ -1,0 +1,31 @@
+body {
+    background-color: #578ea9;
+    text-align: center;
+    color: #501686;
+}
+
+
+.principal {
+    text-align: center;
+    background-color: rgb(221, 221, 192);
+    padding: 100px 100px 100px 100px;
+    margin: 20px 20px 20px 20px;
+}
+
+
+.imagen2 {
+    text-align: right;
+    color: beige;
+    background-color: brown;
+    padding: 200px 50px 200px 50px;
+    margin: 50px 100px 50px 100px ;
+}
+
+
+.imagen3 {
+    text-align: left;
+    color: #b31616;
+    background-color: rgb(226, 167, 78);
+    padding: 25px 100px 200px 50px;
+    margin: 25px 50px 200px 100px;
+}
